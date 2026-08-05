@@ -1,0 +1,36 @@
+Company Policies and FAQs
+
+Refund Policy:
+We offer a 30-day money-back guarantee for all products. If you're not satisfied with your purchase, contact our support team within 30 days of purchase for a full refund. Refunds are processed within 5-7 business days. Annual subscriptions are prorated if cancelled mid-term.
+
+Cancellation Policy:
+You can cancel your subscription at any time from your account dashboard. Cancellations take effect at the end of your current billing cycle. You will retain access to all features until the subscription expires. There are no cancellation fees.
+
+Data Privacy:
+We take data privacy seriously and comply with GDPR, CCPA, and other international privacy regulations. Your data is encrypted at rest and in transit. We never sell customer data to third parties. You can request data export or deletion at any time through your account settings.
+
+Downtime and SLA:
+We guarantee 99.9% uptime for all premium and enterprise plans. Scheduled maintenance windows are announced 7 days in advance. If we fail to meet our SLA commitments, you're eligible for service credits as outlined in your agreement.
+
+Custom Development:
+Our professional services team can develop custom features, integrations, and solutions tailored to your needs. Hourly rates start at $150/hour with project-based pricing available for larger engagements. Contact sales@techcompany.com for a consultation.
+
+Training and Onboarding:
+All enterprise customers receive complimentary onboarding sessions. Additional training workshops are available at $500 per session for up to 20 participants. Online training resources and documentation are freely available on our website.
+
+Payment Methods:
+We accept major credit cards (Visa, Mastercard, American Express), PayPal, and bank transfers for annual subscriptions. Enterprise customers can request invoice billing with NET 30 payment terms.
+
+Account Management:
+Users can manage subscriptions, update billing information, and add or remove team members through the account dashboard at app.techcompany.com. Admin users have access to usage analytics and audit logs.
+
+Contact Information:
+- Sales inquiries: sales@techcompany.com
+- Technical support: support@techcompany.com  
+- Billing questions: billing@techcompany.com
+- Phone support: 1-800-TECH-HELP (available Mon-Fri, 9AM-6PM EST)
+- Emergency support (Enterprise only): Available 24/7 via dedicated hotline
+
+Business Hours:
+Monday through Friday: 9:00 AM to 6:00 PM EST
+Saturday and Sunday: Closed (Emergency support available for enterprise customers)

@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-langchain-rag-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "WhatsApp chatbot with LangChain, RAG pipeline, and conversational memory using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node setup-check.js",
+    "clean": "node -e \"import('fs').then(fs => fs.rmSync('auth_info_baileys', {recursive: true, force: true})); console.log('✅ Cleaned auth session')\""
+  },
+  "dependencies": {
+    "@langchain/core": "^0.2.31",
+    "@langchain/groq": "^0.0.16",
+    "@langchain/textsplitters": "^0.0.3",
+    "@whiskeysockets/baileys": "^6.7.5",
+    "dotenv": "^16.4.5",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0",
+    "langchain": "^0.2.19"
+  }
+}
